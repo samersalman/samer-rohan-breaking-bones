@@ -14,7 +14,7 @@ All paper content lives in `data/papers.json` (2026 and later, shown on the cale
 - `summary`: about 50 words in plain English; the last sentence says why it matters to an everyday person. Drafted from the paper's abstract and not shown on the site until `reviewed` is `true`. The sync never overwrites it.
 - `dateLocked`: set to `true` when you set `date`, `month` and `year` by hand (for example to the PubMed online-ahead-of-print date). The sync then never changes those three fields.
 - `rawTitle`: written by the sync when it strips a conference prefix such as `ID: 1234567` or `PO-ABC-001` from `title`; it keeps the original.
-- `reviewed`: controls whether the plain-English text is public. The first 41 summaries were checked against each paper's abstract (and open-access full text where available) by independent validators before being set to `true`. For any new paper, an author should check every number against the paper before setting it to `true`. Drafts start as `false`.
+- `reviewed`: controls whether the plain-English text is public. Set it to `true` only after an author has reviewed the text against the paper. Drafts start as `false`.
 
 Everything else (title, journal, date, authors, DOI, PubMed ID) is filled from ORCID, Crossref and PubMed. The sync never overwrites the hand-written fields above.
 
