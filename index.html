@@ -42,9 +42,12 @@
 <main id="main">
 <section class="calendar-section" aria-labelledby="calendar-heading">
   <div class="wrap wide">
-    <p class="eyebrow">The year at a glance</p>
-    <h2 id="calendar-heading"><span id="year-label">2026</span> in papers</h2>
-    <p class="lede">Each month holds the studies we published. Tap a month to read them in plain English.</p>
+    <h2 id="calendar-heading">Published papers</h2>
+    <div class="year-switch" role="group" aria-label="Year">
+      <button type="button" id="year-label" class="year-btn" aria-pressed="true">2026</button>
+      <button type="button" class="year-btn" disabled aria-label="2027, coming soon">2027</button>
+    </div>
+    <p class="lede">Tap a month to read our papers!</p>
     <div id="calendar" class="calendar" role="list" aria-label="Months"></div>
     <p id="data-error" class="data-error" hidden>We could not load the papers just now. Please refresh in a moment.</p>
     <p id="preview-note" class="preview-note" hidden>Preview mode: draft summaries are visible and marked DRAFT. They have not been checked by the authors.</p>

@@ -148,3 +148,8 @@ html{scroll-behavior:auto}
 .tile,.tile:hover{transition:none}
 ::view-transition-group(*),::view-transition-old(*),::view-transition-new(*){animation:none!important}
 }
+
+.year-switch{display:flex;gap:.75rem;margin:0 0 1.25rem}
+.year-btn{appearance:none;font:700 1.15rem/1 var(--serif);min-height:44px;min-width:5.5rem;padding:.55rem 1.1rem;border-radius:2px;border:1.5px solid var(--ink);background:transparent;color:var(--ink);touch-action:manipulation}
+.year-btn[aria-pressed="true"]{background:var(--teal);color:var(--bone);box-shadow:3px 3px 0 var(--ink);cursor:default}
+.year-btn:disabled{border-color:var(--bone-dark);border-style:dashed;border-width:2px;color:#9a968b;background:transparent;box-shadow:none;cursor:not-allowed}
