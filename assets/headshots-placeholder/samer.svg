@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440" role="img" aria-label="Placeholder headshot for Samer"><rect width="440" height="440" fill="#F3EFE6"/><circle cx="220" cy="220" r="204" fill="none" stroke="#0F5C5C" stroke-width="3" stroke-dasharray="2 10" stroke-linecap="round"/>
+<g fill="#0F5C5C"><path d="M84 440 q10 -96 92 -112 l44 26 l44 -26 q82 16 92 112z"/>
+<path d="M168 330 l52 40 l52 -40" fill="none" stroke="#F3EFE6" stroke-width="7" stroke-linejoin="round"/>
+<path d="M156 150 q0 -74 64 -74 q64 0 64 74 q0 44 -22 66 v26 q0 20 -20 20 h-44 q-20 0 -20 -20 v-26 q-22 -22 -22 -66z"/></g>
+<path d="M150 150 q-18 -40 14 -62 q20 -26 56 -14 q34 -10 52 18 q22 22 8 58 q-14 -34 -60 -30 q-48 -2 -70 30z" fill="#0F5C5C"/>
+<g fill="#F3EFE6"><ellipse cx="192" cy="160" rx="17" ry="20"/><ellipse cx="248" cy="160" rx="17" ry="20"/><path d="M220 182 l-8 22 h16z"/>
+<rect x="190" y="226" width="60" height="16" rx="4"/></g>
+<g stroke="#0F5C5C" stroke-width="3"><path d="M205 226v16M220 226v16M235 226v16"/></g>
+<text x="220" y="424" text-anchor="middle" font-family="Georgia,serif" font-size="15" letter-spacing="3" fill="#0F5C5C">PLACEHOLDER</text></svg>
