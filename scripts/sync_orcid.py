@@ -19,7 +19,7 @@ AUTHORS = {
     "0009-0007-9897-4071": "Samer G. Salman",
     "0000-0002-8611-6711": "Rohan A. Phadke",
 }
-HAND_FIELDS = ["headline", "bottomLine", "takeaways", "technical", "reviewed", "instagram", "tags", "hidden", "note", "dateLocked", "summary"]
+HAND_FIELDS = ["headline", "bottomLine", "takeaways", "technical", "reviewed", "instagram", "tags", "hidden", "note", "dateLocked", "summary", "topics", "subtopics"]
 UA = "breaking-bones-site-sync/1.0 (public research site; https://github.com/)"
 
 

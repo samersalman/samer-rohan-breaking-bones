@@ -12,6 +12,7 @@ All paper content lives in `data/papers.json` (2026 and later, shown on the cale
 - `hidden`: set to `true` to keep a paper (letter reply, conference abstract, uncertain DOI) in the data but off the site.
 - `note`: free-text reminder for the authors (never shown on the site). The sync keeps it.
 - `summary`: about 50 words in plain English; the last sentence says why it matters to an everyday person. Drafted from the paper's abstract and not shown on the site until `reviewed` is `true`. The sync never overwrites it.
+- `topics` and `subtopics`: lists of ids from `data/taxonomy.json` that decide which filters a paper appears under on the topics page. A paper can have several topics. Every subtopic must belong to one of the paper's topics. The sync never overwrites them; new papers arrive untagged and show up on the topics page only when no filter is chosen, until someone tags them.
 - `dateLocked`: set to `true` when you set `date`, `month` and `year` by hand (for example to the PubMed online-ahead-of-print date). The sync then never changes those three fields.
 - `rawTitle`: written by the sync when it strips a conference prefix such as `ID: 1234567` or `PO-ABC-001` from `title`; it keeps the original.
 - `reviewed`: controls whether the plain-English text is public. Set it to `true` only after an author has reviewed the text against the paper. Drafts start as `false`.

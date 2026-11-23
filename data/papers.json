@@ -29,7 +29,14 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "43040140",
-      "summary": "Researchers reviewed 54 studies on bone-strengthening drugs around lumbar fusion surgery. Most evidence mixed different spine problems together. For short fusions, small teriparatide studies reported less screw loosening and higher or earlier bone union. Evidence for other drugs was thin. This may show patients where bone-health advice still lacks strong proof."
+      "summary": "Researchers reviewed 54 studies on bone-strengthening drugs around lumbar fusion surgery. Most evidence mixed different spine problems together. For short fusions, small teriparatide studies reported less screw loosening and higher or earlier bone union. Evidence for other drugs was thin. This may show patients where bone-health advice still lacks strong proof.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "spine",
+        "bone-health"
+      ]
     },
     {
       "id": "10.1177/21925682261509579",
@@ -55,7 +62,13 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "43038980",
-      "summary": "Researchers studied 112,642 neck fusion surgeries in a national database to see when serious complications happen. They were rare, about 0.9%, and risk fell quickly after surgery. About 43% of bleeding problems with known timing appeared after discharge. This may help families understand when risk is highest, though it sets no discharge times."
+      "summary": "Researchers studied 112,642 neck fusion surgeries in a national database to see when serious complications happen. They were rare, about 0.9%, and risk fell quickly after surgery. About 43% of bleeding problems with known timing appeared after discharge. This may help families understand when risk is highest, though it sets no discharge times.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "spine"
+      ]
     },
     {
       "id": "10.1016/j.injury.2026.113897",
@@ -101,7 +114,15 @@
       "instagram": "",
       "pmid": "43008641",
       "dateLocked": true,
-      "summary": "Researchers built a simple bedside score using arrival information to spot severe bleeding after a broken pelvis. Using data from about 240,000 adults, it beat the commonly used shock index. It worked less well after falls and has not been tested in clinics. This points toward faster recognition of dangerous bleeding after injury."
+      "summary": "Researchers built a simple bedside score using arrival information to spot severe bleeding after a broken pelvis. Using data from about 240,000 adults, it beat the commonly used shock index. It worked less well after falls and has not been tested in clinics. This points toward faster recognition of dangerous bleeding after injury.",
+      "topics": [
+        "ortho",
+        "ai"
+      ],
+      "subtopics": [
+        "trauma",
+        "prediction"
+      ]
     },
     {
       "id": "10.1126/sciadv.aeg2088",
@@ -144,7 +165,13 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42981418",
-      "summary": "Researchers studied how bone keeps a lifelong reserve of stem cells, which are cells that can build new bone. In mice, losing a gene called Hoxa10 gradually depleted these cells and weakened bone repair. Similar defects appeared in human stem cells. This early lab work may help explain how bones heal and age."
+      "summary": "Researchers studied how bone keeps a lifelong reserve of stem cells, which are cells that can build new bone. In mice, losing a gene called Hoxa10 gradually depleted these cells and weakened bone repair. Similar defects appeared in human stem cells. This early lab work may help explain how bones heal and age.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "bone-health"
+      ]
     },
     {
       "id": "10.1016/j.jse.2026.11.029",
@@ -174,7 +201,14 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "43003380",
-      "summary": "Researchers used a computer model to compare two treatments for badly broken elbow bones: fixing the pieces with plates and screws, or replacing the radial head with an implant. Under assumed outcomes, replacement looked cost-effective over ten years. The authors stress these assumptions need real-world checks. This may help patients weigh cost and results."
+      "summary": "Researchers used a computer model to compare two treatments for badly broken elbow bones: fixing the pieces with plates and screws, or replacing the radial head with an implant. Under assumed outcomes, replacement looked cost-effective over ten years. The authors stress these assumptions need real-world checks. This may help patients weigh cost and results.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "shoulder-elbow",
+        "trauma"
+      ]
     },
     {
       "id": "10.1007/s42399-026-02840-8",
@@ -199,10 +233,17 @@
       "technical": "",
       "tags": [],
       "status": "published",
-      "reviewed": false,
+      "reviewed": true,
       "source": "orcid",
       "instagram": "",
-      "summary": ""
+      "summary": "Researchers mapped 76 published sources on adults with prior stroke having joint replacement or hip fracture surgery. Most advice on surgery timing, anesthesia and clot-prevention medicine rests on indirect evidence, and no trial compared preventive drugs. Study quality was not rated. This may help explain why plans can differ between patients.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "periop",
+        "joint"
+      ]
     },
     {
       "id": "10.1007/s00586-026-10444-y",
@@ -232,7 +273,17 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42911415",
-      "summary": "Researchers reviewed how artificial intelligence is being used in spine care, including reading scans, predicting risks and searching medical records. These tools show promise, but challenges remain, including varied data, privacy and lack of testing in real clinics. Patients may eventually meet such tools, so careful testing before use could help protect them."
+      "summary": "Researchers reviewed how artificial intelligence is being used in spine care, including reading scans, predicting risks and searching medical records. These tools show promise, but challenges remain, including varied data, privacy and lack of testing in real clinics. Patients may eventually meet such tools, so careful testing before use could help protect them.",
+      "topics": [
+        "ortho",
+        "ai"
+      ],
+      "subtopics": [
+        "spine",
+        "prediction",
+        "imaging",
+        "language-twins"
+      ]
     },
     {
       "id": "10.1016/j.injury.2026.113527",
@@ -276,7 +327,15 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42501572",
-      "summary": "Researchers created FORD-II, a score using hospital arrival information to predict which adults with broken bones will need rehab or nursing care instead of going home. Tested on national trauma records, it beat older scores. It needs outside testing. Earlier planning could help families prepare for life after the hospital."
+      "summary": "Researchers created FORD-II, a score using hospital arrival information to predict which adults with broken bones will need rehab or nursing care instead of going home. Tested on national trauma records, it beat older scores. It needs outside testing. Earlier planning could help families prepare for life after the hospital.",
+      "topics": [
+        "ortho",
+        "ai"
+      ],
+      "subtopics": [
+        "trauma",
+        "prediction"
+      ]
     },
     {
       "id": "10.1016/j.injury.2026.113594",
@@ -305,7 +364,15 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42585796",
-      "summary": "Researchers built the PIRD score to predict which adults with penetrating injuries, such as gunshot or stab wounds, will need rehab or nursing care instead of going home. Using over 300,000 national trauma records, it predicted well. It was tested only on past data. Early prediction could help families plan recovery sooner."
+      "summary": "Researchers built the PIRD score to predict which adults with penetrating injuries, such as gunshot or stab wounds, will need rehab or nursing care instead of going home. Using over 300,000 national trauma records, it predicted well. It was tested only on past data. Early prediction could help families plan recovery sooner.",
+      "topics": [
+        "ortho",
+        "ai"
+      ],
+      "subtopics": [
+        "trauma",
+        "prediction"
+      ]
     },
     {
       "id": "10.1016/j.jse.2026.10.017",
@@ -336,7 +403,15 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42901235",
-      "summary": "Researchers built a score using only information known before surgery to predict which shoulder replacement patients will not go straight home. Using about 29,000 patients, the score predicted well and beat other tools. It was tested only on past records and needs outside checks. Knowing this earlier may help patients and families plan recovery."
+      "summary": "Researchers built a score using only information known before surgery to predict which shoulder replacement patients will not go straight home. Using about 29,000 patients, the score predicted well and beat other tools. It was tested only on past records and needs outside checks. Knowing this earlier may help patients and families plan recovery.",
+      "topics": [
+        "ortho",
+        "ai"
+      ],
+      "subtopics": [
+        "shoulder-elbow",
+        "prediction"
+      ]
     },
     {
       "id": "10.1016/j.lssr.2026.10.001",
@@ -364,7 +439,13 @@
       "reviewed": true,
       "source": "orcid",
       "instagram": "",
-      "summary": "Researchers reanalyzed public NASA data on kidney gene activity in female mice flown on three missions. Mitochondria (the cell's energy factories) genes looked less active in some kidneys, mostly after longer flights. Groups had five or six mice, and kidney function was untested. This may help scientists protect astronaut kidneys on long trips."
+      "summary": "Researchers reanalyzed public NASA data on kidney gene activity in female mice flown on three missions. Mitochondria (the cell's energy factories) genes looked less active in some kidneys, mostly after longer flights. Groups had five or six mice, and kidney function was untested. This may help scientists protect astronaut kidneys on long trips.",
+      "topics": [
+        "space"
+      ],
+      "subtopics": [
+        "space-molecular"
+      ]
     },
     {
       "id": "10.1097/xcs.0000000000002160",
@@ -422,7 +503,15 @@
       "reviewed": true,
       "source": "orcid",
       "instagram": "",
-      "summary": "Researchers studied 94 astronauts scanned before and after spaceflight, 89 with hip data. Hip bone density loss grew with older age and longer missions, from 1.8% to 3.8%. Spine and whole-body changes were not significant. This association in a small group needs confirmation. It may help guide bone protection for future space travelers."
+      "summary": "Researchers studied 94 astronauts scanned before and after spaceflight, 89 with hip data. Hip bone density loss grew with older age and longer missions, from 1.8% to 3.8%. Spine and whole-body changes were not significant. This association in a small group needs confirmation. It may help guide bone protection for future space travelers.",
+      "topics": [
+        "space",
+        "ortho"
+      ],
+      "subtopics": [
+        "space-outcomes",
+        "bone-health"
+      ]
     },
     {
       "id": "10.1177/21925682261495118",
@@ -460,7 +549,14 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42813508",
-      "summary": "Researchers studied 3,820 adults who had spine surgery and no recent opioid use. About 12% developed new long-term opioid use. How the body breaks down some opioids, a trait set by the CYP2D6 gene, was linked to higher estimated risk at the extremes, though estimates were imprecise. It may someday help personalize pain care."
+      "summary": "Researchers studied 3,820 adults who had spine surgery and no recent opioid use. About 12% developed new long-term opioid use. How the body breaks down some opioids, a trait set by the CYP2D6 gene, was linked to higher estimated risk at the extremes, though estimates were imprecise. It may someday help personalize pain care.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "spine",
+        "periop"
+      ]
     },
     {
       "id": "10.3390/jimaging12100474",
@@ -501,7 +597,15 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42930625",
-      "summary": "Researchers trained a computer model to read routine knee X-rays taken before a knee replacement and predict whether the other knee would need replacing within five years. The X-ray added useful information beyond the medical record, mostly from one front-facing view. It needs outside testing. This may someday help patients plan for future care."
+      "summary": "Researchers trained a computer model to read routine knee X-rays taken before a knee replacement and predict whether the other knee would need replacing within five years. The X-ray added useful information beyond the medical record, mostly from one front-facing view. It needs outside testing. This may someday help patients plan for future care.",
+      "topics": [
+        "ortho",
+        "ai"
+      ],
+      "subtopics": [
+        "joint",
+        "imaging"
+      ]
     },
     {
       "id": "10.1177/21925682261495509",
@@ -559,7 +663,13 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42801296",
-      "summary": "Researchers used a computer simulation to compare two back surgeries for spinal narrowing in older adults: minimally invasive tubular surgery and open surgery. Over ten years, the minimally invasive approach cost less and gained slightly more healthy years. This is a model, not a trial. It may inform choices about cost and care."
+      "summary": "Researchers used a computer simulation to compare two back surgeries for spinal narrowing in older adults: minimally invasive tubular surgery and open surgery. Over ten years, the minimally invasive approach cost less and gained slightly more healthy years. This is a model, not a trial. It may inform choices about cost and care.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "spine"
+      ]
     },
     {
       "id": "10.1007/s42399-026-02675-3",
@@ -586,7 +696,14 @@
       "reviewed": true,
       "source": "orcid",
       "instagram": "",
-      "summary": "Researchers reviewed studies on nutrition before lumbar spine surgery. This narrative review had no new patient data. Low albumin and similar markers were linked to more infections and wound problems. One small trial of 103 patients found protein supplements went with fewer complications. Evidence is limited. Good nutrition may help people prepare for back surgery."
+      "summary": "Researchers reviewed studies on nutrition before lumbar spine surgery. This narrative review had no new patient data. Low albumin and similar markers were linked to more infections and wound problems. One small trial of 103 patients found protein supplements went with fewer complications. Evidence is limited. Good nutrition may help people prepare for back surgery.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "spine",
+        "periop"
+      ]
     },
     {
       "id": "10.1177/21925682261491361",
@@ -638,7 +755,14 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42736510",
-      "summary": "Researchers reviewed national records of 105,649 adults with a broken sacrum, the bone at the base of the spine. Those who had surgery had lower in-hospital death rates, even after adjusting for differences. This shows an association, not proof that surgery is the cause. It may help patients and surgeons discuss options."
+      "summary": "Researchers reviewed national records of 105,649 adults with a broken sacrum, the bone at the base of the spine. Those who had surgery had lower in-hospital death rates, even after adjusting for differences. This shows an association, not proof that surgery is the cause. It may help patients and surgeons discuss options.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "spine",
+        "trauma"
+      ]
     },
     {
       "id": "10.1177/11795468261490000",
@@ -669,7 +793,13 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42732279",
-      "summary": "Researchers used a computer learning method to sort 13,967 hospitalized patients with atrial fibrillation, an irregular heartbeat, into six groups. Death rates differed across groups, though the groups overlapped and were only moderately repeatable. The findings are early. This may someday help doctors see that one rhythm problem differs between patients."
+      "summary": "Researchers used a computer learning method to sort 13,967 hospitalized patients with atrial fibrillation, an irregular heartbeat, into six groups. Death rates differed across groups, though the groups overlapped and were only moderately repeatable. The findings are early. This may someday help doctors see that one rhythm problem differs between patients.",
+      "topics": [
+        "ai"
+      ],
+      "subtopics": [
+        "discovery"
+      ]
     },
     {
       "id": "10.1007/s43390-026-01534-4",
@@ -695,7 +825,15 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42711523",
-      "summary": "Researchers used machine learning to read 1,851 abstracts from a spine curvature journal over its first decade. They found 29 research topics. Studies of surgery outcomes, frailty, and large database analyses were growing, and artificial intelligence appeared in under 2% of abstracts. This may help show patients which questions researchers are working on."
+      "summary": "Researchers used machine learning to read 1,851 abstracts from a spine curvature journal over its first decade. They found 29 research topics. Studies of surgery outcomes, frailty, and large database analyses were growing, and artificial intelligence appeared in under 2% of abstracts. This may help show patients which questions researchers are working on.",
+      "topics": [
+        "ortho",
+        "ai"
+      ],
+      "subtopics": [
+        "spine",
+        "discovery"
+      ]
     },
     {
       "id": "10.1007/s11916-026-01561-w",
@@ -725,7 +863,13 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42700197",
-      "summary": "Researchers reviewed studies linking chronic low back pain to the immune and nervous systems. Pain types seemed to differ in their biology, and ultrasound stiffness measures and some inflammatory markers looked closest to clinical use. Many methods remain experimental and need further trials. This may someday help match back pain treatment to the person."
+      "summary": "Researchers reviewed studies linking chronic low back pain to the immune and nervous systems. Pain types seemed to differ in their biology, and ultrasound stiffness measures and some inflammatory markers looked closest to clinical use. Many methods remain experimental and need further trials. This may someday help match back pain treatment to the person.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "spine"
+      ]
     },
     {
       "id": "10.1016/j.ipej.2026.09.005",
@@ -754,7 +898,13 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42754093",
-      "summary": "Researchers reviewed whether computer simulations and digital twins, which are virtual copies of a patient, could improve care for atrial fibrillation, an irregular heartbeat. Uses so far are mostly early research and procedure planning. These tools have not been proven in routine care. This may help set realistic expectations for personalized heart care."
+      "summary": "Researchers reviewed whether computer simulations and digital twins, which are virtual copies of a patient, could improve care for atrial fibrillation, an irregular heartbeat. Uses so far are mostly early research and procedure planning. These tools have not been proven in routine care. This may help set realistic expectations for personalized heart care.",
+      "topics": [
+        "ai"
+      ],
+      "subtopics": [
+        "language-twins"
+      ]
     },
     {
       "id": "10.1016/j.lssr.2026.03.006",
@@ -785,7 +935,16 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42601155",
-      "summary": "This opinion piece suggests that bone and muscle loss in space and eye changes seen in astronauts may share causes, including fluid shifts and cell energy stress. The authors propose treating them together, with exercise and other countermeasures. These are ideas, not proven findings. They may offer insights for aging and recovery on Earth."
+      "summary": "This opinion piece suggests that bone and muscle loss in space and eye changes seen in astronauts may share causes, including fluid shifts and cell energy stress. The authors propose treating them together, with exercise and other countermeasures. These are ideas, not proven findings. They may offer insights for aging and recovery on Earth.",
+      "topics": [
+        "space",
+        "ortho"
+      ],
+      "subtopics": [
+        "space-outcomes",
+        "space-molecular",
+        "bone-health"
+      ]
     },
     {
       "id": "10.1016/j.lssr.2026.09.001",
@@ -813,7 +972,13 @@
       "reviewed": true,
       "source": "orcid",
       "instagram": "",
-      "summary": "Researchers reanalyzed public data from astronauts on three missions. Right after a short flight, four astronauts' blood immune cells showed lower activity of mitochondria genes (cell energy factories) and protein-building genes. Most changes faded, some lingered. Samples were small, and gene activity does not prove cells worked worse. This may inform future astronaut recovery research."
+      "summary": "Researchers reanalyzed public data from astronauts on three missions. Right after a short flight, four astronauts' blood immune cells showed lower activity of mitochondria genes (cell energy factories) and protein-building genes. Most changes faded, some lingered. Samples were small, and gene activity does not prove cells worked worse. This may inform future astronaut recovery research.",
+      "topics": [
+        "space"
+      ],
+      "subtopics": [
+        "space-molecular"
+      ]
     },
     {
       "id": "10.3390/opt7050062",
@@ -848,7 +1013,15 @@
       "reviewed": true,
       "source": "orcid",
       "instagram": "",
-      "summary": "Researchers reviewed eight studies of light-based sensors paired with machine learning to tell spine tissues apart, which could help avoid screw misplacement. Across the five studies pooled, accuracy was about 96%, but all were lab, animal or cadaver tissue tests, not living people. This early evidence may someday help make spine surgery safer."
+      "summary": "Researchers reviewed eight studies of light-based sensors paired with machine learning to tell spine tissues apart, which could help avoid screw misplacement. Across the five studies pooled, accuracy was about 96%, but all were lab, animal or cadaver tissue tests, not living people. This early evidence may someday help make spine surgery safer.",
+      "topics": [
+        "ortho",
+        "ai"
+      ],
+      "subtopics": [
+        "spine",
+        "imaging"
+      ]
     },
     {
       "id": "10.1177/21925682261483531",
@@ -874,7 +1047,14 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42635466",
-      "summary": "Researchers studied 29,024 children with spine fractures in a national database. About 20% needed a breathing machine. Low consciousness scores were by far the strongest sign, while low blood pressure and low oxygen also raised the odds. These are associations from past records. Early recognition may help emergency teams and families prepare."
+      "summary": "Researchers studied 29,024 children with spine fractures in a national database. About 20% needed a breathing machine. Low consciousness scores were by far the strongest sign, while low blood pressure and low oxygen also raised the odds. These are associations from past records. Early recognition may help emergency teams and families prepare.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "spine",
+        "trauma"
+      ]
     },
     {
       "id": "10.1177/21925682261481450",
@@ -903,7 +1083,15 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42622533",
-      "summary": "Researchers reviewed 15 studies of chatbots and similar large language models in spine surgery. They seemed useful for patient education, documentation and simple triage, but weaker for reading scans and planning surgery. Errors and privacy concerns remain. This may help patients see that these tools could assist, but are no substitute for their doctors."
+      "summary": "Researchers reviewed 15 studies of chatbots and similar large language models in spine surgery. They seemed useful for patient education, documentation and simple triage, but weaker for reading scans and planning surgery. Errors and privacy concerns remain. This may help patients see that these tools could assist, but are no substitute for their doctors.",
+      "topics": [
+        "ortho",
+        "ai"
+      ],
+      "subtopics": [
+        "spine",
+        "language-twins"
+      ]
     },
     {
       "id": "10.3390/jimaging12080388",
@@ -937,7 +1125,15 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42645986",
-      "summary": "Researchers trained a computer model to grade narrowing of the nerve openings in the lower spine on MRI scans from 469 patients. The model agreed well with expert grades, and extra measurements did not help. It was tested on a small group and needs outside testing. This may someday help standardize reading of back scans."
+      "summary": "Researchers trained a computer model to grade narrowing of the nerve openings in the lower spine on MRI scans from 469 patients. The model agreed well with expert grades, and extra measurements did not help. It was tested on a small group and needs outside testing. This may someday help standardize reading of back scans.",
+      "topics": [
+        "ortho",
+        "ai"
+      ],
+      "subtopics": [
+        "spine",
+        "imaging"
+      ]
     },
     {
       "id": "10.1177/21925682261470356",
@@ -964,7 +1160,14 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42578508",
-      "summary": "Researchers studied 66,162 neck fusion patients in a national database. Those who took corticosteroids before surgery had more infections, readmissions and deaths within 30 days. This is an association from past records. Findings for other immune-suppressing drugs were inconclusive because few patients used them. This may help surgeons weigh steroid use when planning surgery."
+      "summary": "Researchers studied 66,162 neck fusion patients in a national database. Those who took corticosteroids before surgery had more infections, readmissions and deaths within 30 days. This is an association from past records. Findings for other immune-suppressing drugs were inconclusive because few patients used them. This may help surgeons weigh steroid use when planning surgery.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "spine",
+        "periop"
+      ]
     },
     {
       "id": "10.1016/j.jorep.2026.100922",
@@ -993,7 +1196,14 @@
       "reviewed": true,
       "source": "orcid",
       "instagram": "",
-      "summary": "This retrospective study matched 2,396 pairs of adults after surgery for severe lower leg (pilon) fractures. Malnutrition, defined by low blood markers, was linked to more 90-day readmissions (13.0% vs 6.7%) and two-year deaths (5.2% vs 1.9%). This shows association, not cause. Checking nutrition before surgery may help flag patients needing closer follow-up."
+      "summary": "This retrospective study matched 2,396 pairs of adults after surgery for severe lower leg (pilon) fractures. Malnutrition, defined by low blood markers, was linked to more 90-day readmissions (13.0% vs 6.7%) and two-year deaths (5.2% vs 1.9%). This shows association, not cause. Checking nutrition before surgery may help flag patients needing closer follow-up.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "trauma",
+        "foot-ankle"
+      ]
     },
     {
       "id": "10.1177/19386400261456897",
@@ -1122,7 +1332,13 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42522736",
-      "summary": "Researchers gathered international ankle experts to agree on surgery for medium and large cartilage damage in the ankle bone. Using a structured voting process, they backed bone grafts for many cases and donor grafts for larger lesions. They noted the evidence is limited. This may help patients understand why surgeons choose different repairs."
+      "summary": "Researchers gathered international ankle experts to agree on surgery for medium and large cartilage damage in the ankle bone. Using a structured voting process, they backed bone grafts for many cases and donor grafts for larger lesions. They noted the evidence is limited. This may help patients understand why surgeons choose different repairs.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "foot-ankle"
+      ]
     },
     {
       "id": "10.1177/21925682261474150",
@@ -1148,7 +1364,14 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42508018",
-      "summary": "Researchers reviewed records of about 4,500 matched pairs of adults with neck spinal cord injuries. Early surgery within 24 hours was not linked to more lung blood clots. It was linked to higher in-hospital death, which may reflect confounding. This may help families and doctors weigh surgery timing, though more study is needed."
+      "summary": "Researchers reviewed records of about 4,500 matched pairs of adults with neck spinal cord injuries. Early surgery within 24 hours was not linked to more lung blood clots. It was linked to higher in-hospital death, which may reflect confounding. This may help families and doctors weigh surgery timing, though more study is needed.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "spine",
+        "trauma"
+      ]
     },
     {
       "id": "10.1177/19386400261456925",
@@ -1277,7 +1500,13 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42495946",
-      "summary": "Seventy-five experts from over 25 countries used a structured voting process to agree on non-surgical care for ankle cartilage injuries. Injections such as platelet-rich plasma were seen as reasonable for some people with lingering symptoms, but no type proved better. This may help patients ask informed questions about their options."
+      "summary": "Seventy-five experts from over 25 countries used a structured voting process to agree on non-surgical care for ankle cartilage injuries. Injections such as platelet-rich plasma were seen as reasonable for some people with lingering symptoms, but no type proved better. This may help patients ask informed questions about their options.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "foot-ankle"
+      ]
     },
     {
       "id": "10.1007/s00586-026-10215-9",
@@ -1309,7 +1538,15 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42489700",
-      "summary": "This review summarizes research on how spinal cord circuits work. It suggests the spinal cord does more than relay signals and may adapt movement. Much of the direct evidence still comes from brain studies. The work may eventually help guide treatments for spinal cord injury, such as stimulation and rehabilitation."
+      "summary": "This review summarizes research on how spinal cord circuits work. It suggests the spinal cord does more than relay signals and may adapt movement. Much of the direct evidence still comes from brain studies. The work may eventually help guide treatments for spinal cord injury, such as stimulation and rehabilitation.",
+      "topics": [
+        "ortho",
+        "ai"
+      ],
+      "subtopics": [
+        "spine",
+        "discovery"
+      ]
     },
     {
       "id": "10.3390/jimaging12070307",
@@ -1341,7 +1578,15 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42506153",
-      "summary": "Researchers tested computer programs that read children's wrist X-rays to name the type of fracture. The best program improved with longer training but was still not accurate enough for clinical use. This is an early step toward tools that might someday help hospitals without bone specialists."
+      "summary": "Researchers tested computer programs that read children's wrist X-rays to name the type of fracture. The best program improved with longer training but was still not accurate enough for clinical use. This is an early step toward tools that might someday help hospitals without bone specialists.",
+      "topics": [
+        "ortho",
+        "ai"
+      ],
+      "subtopics": [
+        "trauma",
+        "imaging"
+      ]
     },
     {
       "id": "10.1016/j.injury.2026.113301",
@@ -1380,7 +1625,15 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42068850",
-      "summary": "Researchers built a bedside score using information available at the emergency department to predict which adults with broken bones will not go home. In 8,422 patients at one trauma center, it worked well in testing. Earlier warnings may help families and care teams plan sooner, though it needs further checking elsewhere."
+      "summary": "Researchers built a bedside score using information available at the emergency department to predict which adults with broken bones will not go home. In 8,422 patients at one trauma center, it worked well in testing. Earlier warnings may help families and care teams plan sooner, though it needs further checking elsewhere.",
+      "topics": [
+        "ortho",
+        "ai"
+      ],
+      "subtopics": [
+        "trauma",
+        "prediction"
+      ]
     },
     {
       "id": "10.1016/j.spinee.2026.06.010",
@@ -1410,7 +1663,13 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42314842",
-      "summary": "Researchers reviewed 18 studies of 3,346 people who had artificial disc replacement for low back pain, followed five or more years on average. Pain and function stayed improved, and repeat surgery rates were mostly low. It did not clearly prevent later wear in nearby discs. This may help patients weigh motion-preserving surgery."
+      "summary": "Researchers reviewed 18 studies of 3,346 people who had artificial disc replacement for low back pain, followed five or more years on average. Pain and function stayed improved, and repeat surgery rates were mostly low. It did not clearly prevent later wear in nearby discs. This may help patients weigh motion-preserving surgery.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "spine"
+      ]
     },
     {
       "id": "10.21037/tcr-2026-0564",
@@ -1444,7 +1703,13 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42445412",
-      "summary": "Researchers compared sarcoma patients on two cancer drug types versus one. After matching 834 per group, blood clots in one year occurred in 14.0% versus 12.4%. The difference was not statistically clear, and the study was observational. Patients on these drugs may want to ask their care team about clot risk."
+      "summary": "Researchers compared sarcoma patients on two cancer drug types versus one. After matching 834 per group, blood clots in one year occurred in 14.0% versus 12.4%. The difference was not statistically clear, and the study was observational. Patients on these drugs may want to ask their care team about clot risk.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "periop"
+      ]
     },
     {
       "id": "10.1007/s43390-026-01442-7",
@@ -1503,7 +1768,13 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42159996",
-      "summary": "Researchers reviewed five small studies covering 47 patients with a stress fracture in the lower spine, treated with minimally invasive repair. Most bones healed, pain dropped, and about 94% returned to activity. The studies were few and varied. This may help patients considering surgery that avoids spinal fusion."
+      "summary": "Researchers reviewed five small studies covering 47 patients with a stress fracture in the lower spine, treated with minimally invasive repair. Most bones healed, pain dropped, and about 94% returned to activity. The studies were few and varied. This may help patients considering surgery that avoids spinal fusion.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "spine"
+      ]
     },
     {
       "id": "10.1007/s43390-026-01411-0",
@@ -1559,7 +1830,15 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42101555",
-      "summary": "Researchers reviewed 26 studies on digital twins, which are computer models of an individual patient, and artificial intelligence in spine care. Spine digital twins remain mostly an idea, with no proof yet that they improve decisions. Patients may see such tools advertised, so it helps to know the evidence is early."
+      "summary": "Researchers reviewed 26 studies on digital twins, which are computer models of an individual patient, and artificial intelligence in spine care. Spine digital twins remain mostly an idea, with no proof yet that they improve decisions. Patients may see such tools advertised, so it helps to know the evidence is early.",
+      "topics": [
+        "ortho",
+        "ai"
+      ],
+      "subtopics": [
+        "spine",
+        "language-twins"
+      ]
     },
     {
       "id": "10.1007/s11914-026-00967-0",
@@ -1586,7 +1865,13 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42084700",
-      "summary": "Researchers reviewed 37 studies on two ways to treat weak bones. Starting with bone-building drugs, then bone-protecting ones, generally raised bone density and cut fractures more than the usual step approach. Many fracture patients never get treatment. People with fractures can ask their doctors about bone health."
+      "summary": "Researchers reviewed 37 studies on two ways to treat weak bones. Starting with bone-building drugs, then bone-protecting ones, generally raised bone density and cut fractures more than the usual step approach. Many fracture patients never get treatment. People with fractures can ask their doctors about bone health.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "bone-health"
+      ]
     },
     {
       "id": "10.1186/s13064-026-00261-w",
@@ -1616,7 +1901,13 @@
       "reviewed": true,
       "source": "orcid",
       "instagram": "",
-      "summary": "Researchers reviewed studies on chronic tendon pain. This narrative review summarizes existing literature, not new patient data. Shear wave ultrasound detected treatment changes better than standard ultrasound, and pain education plus exercise outperformed exercise alone short-term. The proposed treatment-matching framework is untested and needs trials. It may someday help guide more personalized tendon care."
+      "summary": "Researchers reviewed studies on chronic tendon pain. This narrative review summarizes existing literature, not new patient data. Shear wave ultrasound detected treatment changes better than standard ultrasound, and pain education plus exercise outperformed exercise alone short-term. The proposed treatment-matching framework is untested and needs trials. It may someday help guide more personalized tendon care.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "soft-tissue"
+      ]
     },
     {
       "id": "10.1007/s44397-026-00053-1",
@@ -1649,7 +1940,13 @@
       "reviewed": true,
       "source": "orcid",
       "instagram": "",
-      "summary": "Researchers reviewed studies of spinal implants that preserve motion and carry built-in sensors. This narrative review summarizes existing literature, not new patient data. Clinical studies were mostly retrospective and modest in size, and tunable, sensor-equipped designs remain early-stage. This research may someday help make back surgery and recovery more personalized."
+      "summary": "Researchers reviewed studies of spinal implants that preserve motion and carry built-in sensors. This narrative review summarizes existing literature, not new patient data. Clinical studies were mostly retrospective and modest in size, and tunable, sensor-equipped designs remain early-stage. This research may someday help make back surgery and recovery more personalized.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "spine"
+      ]
     },
     {
       "id": "10.1007/s43390-026-01365-3",
@@ -1677,7 +1974,15 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "41973342",
-      "summary": "Researchers reviewed studies of tools that predict outcomes after spine surgery. Older score-based models predicted fairly well, and artificial intelligence sometimes did slightly better, but not consistently. Testing on new patients and real-world use remain major gaps. This may mean patients are best served treating such predictions as one input, not a guarantee."
+      "summary": "Researchers reviewed studies of tools that predict outcomes after spine surgery. Older score-based models predicted fairly well, and artificial intelligence sometimes did slightly better, but not consistently. Testing on new patients and real-world use remain major gaps. This may mean patients are best served treating such predictions as one input, not a guarantee.",
+      "topics": [
+        "ortho",
+        "ai"
+      ],
+      "subtopics": [
+        "spine",
+        "prediction"
+      ]
     },
     {
       "id": "10.1016/j.hrthm.2026.03.206",
@@ -1736,7 +2041,14 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "42238865",
-      "summary": "Researchers used a computer model to compare two surgeries for ankle fractures in people aged 75 and older. Standard plate and screw surgery cost less, with nearly identical quality of life. The model relied on published estimates, not new patients. This may help older adults and families discuss surgical options."
+      "summary": "Researchers used a computer model to compare two surgeries for ankle fractures in people aged 75 and older. Standard plate and screw surgery cost less, with nearly identical quality of life. The model relied on published estimates, not new patients. This may help older adults and families discuss surgical options.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "foot-ankle",
+        "trauma"
+      ]
     },
     {
       "id": "10.1007/s10792-026-04023-9",
@@ -1770,13 +2082,20 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "41831067",
-      "summary": "This review explains why a few people lose vision after surgery not involving the eyes, most often spine or heart operations. It points to poor blood flow to the optic nerve, linked to low blood pressure, long prone surgeries, and swelling. Knowing the risks may help patients talk with their surgical and anesthesia teams."
+      "summary": "This review explains why a few people lose vision after surgery not involving the eyes, most often spine or heart operations. It points to poor blood flow to the optic nerve, linked to low blood pressure, long prone surgeries, and swelling. Knowing the risks may help patients talk with their surgical and anesthesia teams.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "periop",
+        "spine"
+      ]
     },
     {
       "id": "10.1007/s10143-026-04179-z",
       "doi": "10.1007/s10143-026-04179-z",
       "title": "Endoscopic versus open lumbar decompression: a retrospective cohort study of 31,000 patients with 90-day follow-up",
-      "headline": "Keyhole back surgery versus open surgery: how do the complications compare?",
+      "headline": "",
       "journal": "Neurosurgical Review",
       "date": "2026-02-21",
       "month": 2,
@@ -1808,7 +2127,13 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "41721128",
-      "summary": "Researchers compared keyhole and open back surgery for nerve pressure in 31,408 matched pairs of patients. Keyhole surgery had fewer spinal fluid leaks and repeat operations. Meningitis, clots, and heart attacks were slightly more common after keyhole surgery. This retrospective study may help patients weigh surgical options, though it cannot prove cause."
+      "summary": "Researchers compared keyhole and open back surgery for nerve pressure in 31,408 matched pairs of patients. Keyhole surgery had fewer spinal fluid leaks and repeat operations. Meningitis, clots, and heart attacks were slightly more common after keyhole surgery. This retrospective study may help patients weigh surgical options, though it cannot prove cause.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "spine"
+      ]
     },
     {
       "id": "10.1007/s12021-026-09767-4",
@@ -1841,7 +2166,16 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "41579264",
-      "summary": "Researchers built a gene activity score for the connection between nerves and muscles. In adults whose leg was immobilized for 10 days, the score rose and partly recovered, separately from muscle shrinkage. This suggests nerves may contribute to weakness. It may someday help doctors understand why a limb feels weak after time in a cast."
+      "summary": "Researchers built a gene activity score for the connection between nerves and muscles. In adults whose leg was immobilized for 10 days, the score rose and partly recovered, separately from muscle shrinkage. This suggests nerves may contribute to weakness. It may someday help doctors understand why a limb feels weak after time in a cast.",
+      "topics": [
+        "space",
+        "ai"
+      ],
+      "subtopics": [
+        "space-molecular",
+        "space-outcomes",
+        "discovery"
+      ]
     },
     {
       "id": "10.1093/intbio/zyag025",
@@ -1849,8 +2183,8 @@
       "title": "Spaceflight is associated with mitochondrial oxidative phosphorylation suppression and immune dysregulation that persist after return: a cross-mission transcriptomic analysis",
       "headline": "",
       "journal": "Integrative Biology",
-      "date": "2026-01-16",
-      "month": 1,
+      "date": "2026-11-16",
+      "month": 11,
       "year": 2026,
       "authors": [
         "Alexia Tasoula",
@@ -1870,7 +2204,14 @@
       "source": "orcid",
       "instagram": "",
       "pmid": "43038107",
-      "summary": "Researchers combined gene activity data from 70 spaceflight comparisons across 21 tissues, including mouse studies. Genes for cell energy production were turned down in flight, more so with higher radiation, and stayed low after return in high-exposure datasets. It may help keep future space travelers healthy on long missions."
+      "summary": "Researchers combined gene activity data from 70 spaceflight comparisons across 21 tissues, including mouse studies. Genes for cell energy production were turned down in flight, more so with higher radiation, and stayed low after return in high-exposure datasets. It may help keep future space travelers healthy on long missions.",
+      "topics": [
+        "space"
+      ],
+      "subtopics": [
+        "space-molecular"
+      ],
+      "dateLocked": true
     }
   ]
 }

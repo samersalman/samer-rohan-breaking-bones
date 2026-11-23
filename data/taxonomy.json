@@ -1,0 +1,78 @@
+{
+  "topics": [
+    {
+      "id": "ortho",
+      "label": "Orthopedic surgery",
+      "subs": [
+        {
+          "id": "spine",
+          "label": "Spine"
+        },
+        {
+          "id": "trauma",
+          "label": "Trauma and fractures"
+        },
+        {
+          "id": "foot-ankle",
+          "label": "Foot and ankle"
+        },
+        {
+          "id": "shoulder-elbow",
+          "label": "Shoulder and elbow"
+        },
+        {
+          "id": "joint",
+          "label": "Knee, hip and joint replacement"
+        },
+        {
+          "id": "soft-tissue",
+          "label": "Tendon and soft tissue"
+        },
+        {
+          "id": "bone-health",
+          "label": "Bone health"
+        },
+        {
+          "id": "periop",
+          "label": "Perioperative care and cancer"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "label": "Artificial intelligence",
+      "subs": [
+        {
+          "id": "imaging",
+          "label": "Imaging and sensing"
+        },
+        {
+          "id": "prediction",
+          "label": "Risk prediction"
+        },
+        {
+          "id": "language-twins",
+          "label": "Language models and digital twins"
+        },
+        {
+          "id": "discovery",
+          "label": "Pattern discovery"
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "label": "Space medicine",
+      "subs": [
+        {
+          "id": "space-molecular",
+          "label": "Genetics and molecular biology"
+        },
+        {
+          "id": "space-outcomes",
+          "label": "Clinical outcomes and physiology"
+        }
+      ]
+    }
+  ]
+}

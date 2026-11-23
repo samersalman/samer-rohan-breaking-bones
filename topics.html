@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Browse by topic | Breaking Bones</title>
+<meta name="description" content="Browse the published papers of Samer G. Salman and Rohan A. Phadke by topic: orthopedic surgery, artificial intelligence and space medicine. Pick more than one topic to find where they overlap.">
+<meta name="theme-color" content="#0B0B0B">
+<link rel="icon" href="assets/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon-180.png">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Browse by topic | Breaking Bones">
+<meta property="og:description" content="Check a topic to see our papers. Pick more than one to find where they overlap.">
+<meta property="og:image" content="https://samersalman.github.io/samer-rohan-breaking-bones/assets/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preload" href="assets/fonts/fraunces-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/topics.css">
+<script src="js/topics.js" defer></script>
+</head>
+<body class="topics-page">
+<a class="skip" href="#filters-heading">Skip to the filters</a>
+<div id="page">
+<header class="t-head">
+  <div class="wrap wide t-head-inner">
+    <a class="t-brand" href="index.html"><img src="assets/logo-circle.png" alt="" width="48" height="48"><span>Breaking Bones</span></a>
+    <a class="t-back-top" href="index.html">Back to the calendar</a>
+  </div>
+</header>
+
+<main id="main">
+  <div class="wrap wide t-intro">
+    <p class="eyebrow">Papers by subject</p>
+    <h1 class="t-title">Browse by topic</h1>
+    <p class="t-lede">Check a topic to see our papers. Pick more than one to find where they overlap.</p>
+    <p class="t-back"><a href="index.html">Back to the calendar</a></p>
+  </div>
+
+  <div class="wrap wide t-layout">
+    <form class="t-filters" id="filters" aria-labelledby="filters-heading" onsubmit="return false">
+      <h2 id="filters-heading" tabindex="-1">Filters</h2>
+      <fieldset class="t-topics">
+        <legend>Topics</legend>
+        <div id="topic-groups" class="t-groups"></div>
+      </fieldset>
+      <div class="t-actions">
+        <button type="button" id="clear-all" class="t-clear">Clear all</button>
+      </div>
+    </form>
+
+    <div class="t-results" aria-labelledby="results-heading">
+      <h2 id="results-heading" class="t-count-line"><span id="count" role="status" aria-live="polite" aria-atomic="true">Loading papers</span></h2>
+      <p id="data-error" class="data-error" hidden>We could not load the papers just now. Please refresh in a moment.</p>
+      <div id="empty" class="t-empty" hidden>
+        <div class="t-empty-mark" aria-hidden="true">?</div>
+        <p>No paper matches all of those. Try unchecking one.</p>
+      </div>
+      <div id="list" class="t-list"></div>
+      <noscript><p>This page needs JavaScript to filter papers. You can still browse them by month on the <a href="index.html">calendar</a>.</p></noscript>
+    </div>
+  </div>
+</main>
+
+<div class="divider" aria-hidden="true"></div>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p><strong>Educational, not medical advice.</strong> This site explains published research in plain language. It does not diagnose, treat or recommend care for any person. Talk to your own clinician about your own health. Summaries may simplify; the published paper is the source of record.</p>
+    <p class="small">Breaking Bones. Papers by Samer G. Salman, Rohan A. Phadke and co-authors. <a href="index.html">Back to the calendar</a></p>
+  </div>
+</footer>
+</div>
+</body>
+</html>
