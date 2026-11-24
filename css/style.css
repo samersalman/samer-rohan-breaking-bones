@@ -80,6 +80,9 @@ box-shadow:4px 4px 0 var(--ink);touch-action:manipulation;transition:transform .
 @media(min-width:600px){.person{grid-template-columns:160px 1fr}}
 .person img{width:100%;aspect-ratio:1;object-fit:cover;border:1.5px solid var(--ink);box-shadow:5px 5px 0 var(--teal);background:var(--bone-dark)}
 .person .role{font-size:.8rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--teal);margin:.15rem 0 .4rem}
+.profile-links{display:flex;flex-wrap:wrap;gap:.5rem;margin:.85rem 0 0}
+.profile-links .btn{display:inline-flex;align-items:center;min-height:44px;padding:0 1rem;font-size:.85rem;color:var(--ink);background:var(--bone);border:1.5px solid var(--ink);box-shadow:3px 3px 0 var(--teal)}
+.profile-links .btn:hover{background:var(--teal);color:var(--bone);box-shadow:3px 3px 0 var(--ink)}
 .ph{color:var(--ink-60);font-style:italic}
 .contact{background:var(--bone-dark);padding-block:clamp(3rem,8vw,5rem)}
 .site-footer{background:var(--ink);color:var(--bone);padding-block:3rem}
