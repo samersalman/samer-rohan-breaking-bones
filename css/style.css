@@ -75,6 +75,13 @@ box-shadow:4px 4px 0 var(--ink);touch-action:manipulation;transition:transform .
 .gloss-def strong{font-family:var(--serif)}
 
 /* about */
+.about{position:relative}
+@media(min-width:1100px){
+.about{--d:clamp(300px,calc(100vw - 800px),620px);min-height:calc(var(--d) + 6rem)}
+.about::before,.about::after{content:"";position:absolute;top:50%;width:calc(var(--d)/2);height:var(--d);transform:translateY(-50%);background:center/100% 100% no-repeat;pointer-events:none}
+.about::before{right:calc(50% + 340px + 2rem);background-image:url("../assets/logo-half-left.png")}
+.about::after{left:calc(50% + 340px + 2rem);background-image:url("../assets/logo-half-right.png")}
+}
 .people{display:grid;gap:2.5rem;margin-top:2rem}
 .person{display:grid;grid-template-columns:110px 1fr;gap:1.25rem;align-items:start}
 @media(min-width:600px){.person{grid-template-columns:160px 1fr}}
