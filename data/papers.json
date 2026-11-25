@@ -4,6 +4,131 @@
   },
   "papers": [
     {
+      "headline": "",
+      "bottomLine": "Summary coming.",
+      "takeaways": [],
+      "technical": "",
+      "tags": [],
+      "status": "published",
+      "source": "manual",
+      "instagram": "",
+      "dateLocked": true,
+      "date": "2026-11-24",
+      "month": 11,
+      "year": 2026,
+      "id": "10.1213/ANE.0000000000008450",
+      "doi": "10.1213/ANE.0000000000008450",
+      "title": "Chronic Opioid Exposure Modifies the Association Between Preoperative Serum Albumin and 30-Day Readmission After Inpatient Surgery: A Cohort Study in the All of Us Research Program",
+      "journal": "Anesthesia & Analgesia",
+      "authors": [
+        "Neil Panwalker",
+        "Samer G. Salman",
+        "Rohan A. Phadke",
+        "Joseph Donnelly"
+      ],
+      "url": "https://doi.org/10.1213/ANE.0000000000008450",
+      "pmid": "43078086",
+      "reviewed": true,
+      "summary": "Researchers studied 42,239 adults having inpatient surgery in a national research program. Low albumin, a blood protein often used to judge surgical risk, went with more hospital returns within 30 days, but only in people taking opioids long term. It does not prove cause. It may help doctors read a routine blood test more carefully before surgery.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "periop"
+      ]
+    },
+    {
+      "headline": "",
+      "bottomLine": "Summary coming.",
+      "takeaways": [],
+      "technical": "",
+      "tags": [],
+      "status": "published",
+      "source": "manual",
+      "instagram": "",
+      "dateLocked": true,
+      "date": "2026-11-24",
+      "month": 11,
+      "year": 2026,
+      "id": "10.1016/j.arth.2026.11.082",
+      "doi": "10.1016/j.arth.2026.11.082",
+      "title": "Evolution of Research Topics in Arthroplasty: A Machine Learning Analysis of Over 10,000 Journal of Arthroplasty Publications (2005 to 2026)",
+      "journal": "The Journal of Arthroplasty",
+      "authors": [
+        "Rohan A. Phadke",
+        "Samer G. Salman",
+        "James Burnett",
+        "Krishna Anand",
+        "Eric Azua",
+        "Jonathan Walsh"
+      ],
+      "url": "https://doi.org/10.1016/j.arth.2026.11.082",
+      "pmid": "43078221",
+      "reviewed": true,
+      "summary": "Researchers used machine learning to read 10,597 abstracts from a leading joint replacement journal, published from 2005 to 2026. They found 83 research topics. Studies of implant design and surgical technique declined, while patient-reported outcomes and joint infection grew fastest. This may help show patients which questions about hip and knee replacement researchers are working on.",
+      "topics": [
+        "ortho",
+        "ai"
+      ],
+      "subtopics": [
+        "joint",
+        "discovery"
+      ]
+    },
+    {
+      "headline": "",
+      "bottomLine": "Summary coming.",
+      "takeaways": [],
+      "technical": "",
+      "tags": [],
+      "status": "published",
+      "source": "manual",
+      "instagram": "",
+      "dateLocked": true,
+      "date": "2026-11-24",
+      "month": 11,
+      "year": 2026,
+      "id": "10.1016/j.injury.2026.113939",
+      "doi": "10.1016/j.injury.2026.113939",
+      "title": "Response to Letter to the Editor regarding “The fracture orthopedic risk of non-home discharge (FORD) score: a novel bedside predictive tool for non-home discharge in orthopedic trauma patients.”",
+      "journal": "Injury",
+      "authors": [
+        "Samer G. Salman",
+        "Rohan A. Phadke",
+        "Theodore Carlin",
+        "Jose Ramirez",
+        "Jose E. Mendez-Reyes",
+        "Marcus K. Hoffman",
+        "Jennifer Leonard",
+        "Rachel W. Davis",
+        "Jeremy L. Ward",
+        "Roberto M. Vera",
+        "Eric J. Silberfein",
+        "Abbas Rana",
+        "Omar H. Atassi",
+        "Christopher H. Perkins",
+        "John R. Dawson",
+        "Chad Wilson",
+        "Caitlin Anne Fitzgerald",
+        "Catherine P. Seger",
+        "Martin D. Zielinski",
+        "Kenneth L. Mattox",
+        "Ryan P. Dumas"
+      ],
+      "url": "https://doi.org/10.1016/j.injury.2026.113939",
+      "reviewed": false,
+      "hidden": true,
+      "note": "Letter reply; hidden like the other letter replies. Set hidden to false to show it.",
+      "topics": [
+        "ortho",
+        "ai"
+      ],
+      "subtopics": [
+        "trauma",
+        "prediction"
+      ]
+    },
+    {
       "id": "10.1007/s11914-026-00999-6",
       "doi": "10.1007/s11914-026-00999-6",
       "title": "Osteoporosis Treatment in Lumbar Fusion: A Scoping Review",
