@@ -34,7 +34,7 @@
         "James Rizkalla"
       ],
       "url": "https://doi.org/10.3390/jpm16120593",
-      "reviewed": false,
+      "reviewed": true,
       "summary": "Researchers used a national surgery registry of 68,091 neck fusion operations to build a computer model that predicts who will need a second unplanned operation within 30 days. About 2 in 100 patients did. The model flagged a high-risk group but missed most cases and needs outside testing. It could help surgeons counsel patients and plan closer follow-up.",
       "topics": [
         "ortho",
