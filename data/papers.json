@@ -13,6 +13,39 @@
       "source": "manual",
       "instagram": "",
       "dateLocked": true,
+      "date": "2026-11-24",
+      "month": 11,
+      "year": 2026,
+      "id": "10.1016/j.injury.2026.113938",
+      "doi": "10.1016/j.injury.2026.113938",
+      "title": "Scooter-Related Trauma: Age Differences, Fracture Patterns, and Hospital Payment Burden",
+      "journal": "Injury",
+      "authors": [
+        "Samer G. Salman",
+        "Rohan A. Phadke",
+        "Krishna K. Anand",
+        "John R. Dawson"
+      ],
+      "url": "https://doi.org/10.1016/j.injury.2026.113938",
+      "reviewed": false,
+      "summary": "Researchers studied 20,647 scooter injuries seen at US trauma centers from 2017 to 2024. Children were mostly hurt falling off kick scooters, while electric scooter riders were older, typically around 31. Eight in 10 broke a bone and more than 1 in 4 had a brain injury. Prevention, like helmets, could spare families serious injuries.",
+      "topics": [
+        "ortho"
+      ],
+      "subtopics": [
+        "trauma"
+      ]
+    },
+    {
+      "headline": "",
+      "bottomLine": "Summary coming.",
+      "takeaways": [],
+      "technical": "",
+      "tags": [],
+      "status": "published",
+      "source": "manual",
+      "instagram": "",
+      "dateLocked": true,
       "date": "2026-11-26",
       "month": 11,
       "year": 2026,
@@ -159,8 +192,7 @@
       ],
       "url": "https://doi.org/10.1016/j.injury.2026.113939",
       "reviewed": false,
-      "hidden": true,
-      "note": "Letter reply; hidden like the other letter replies. Set hidden to false to show it.",
+      "hidden": false,
       "topics": [
         "ortho",
         "ai"
@@ -168,7 +200,8 @@
       "subtopics": [
         "trauma",
         "prediction"
-      ]
+      ],
+      "summary": "Two researchers wrote to the journal with questions about the FORD score, a tool that flags which fracture patients may need rehab or nursing care after the hospital. The authors replied that the cutoff is 4 points, that a high score should prompt a closer look rather than decide where a patient goes, and that it needs testing at other hospitals. Clear limits help tools be used safely."
     },
     {
       "id": "10.1007/s11914-026-00999-6",
