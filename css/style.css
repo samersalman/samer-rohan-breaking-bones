@@ -41,6 +41,7 @@ section{padding-block:clamp(3rem,9vw,6rem)}
 .hero h1{font-size:clamp(2.6rem,9vw,6rem);line-height:.95;letter-spacing:-.02em}
 .tagline{font:italic 400 clamp(1.15rem,3vw,1.6rem)/1.3 var(--serif);margin:1rem 0 1.25rem}
 .handle{margin:0}.handle a{color:var(--bone);font-size:1.15rem}.handle span{color:#bdb8ab;font-size:.95rem}
+.hero-linkedin{margin-top:.4rem}
 
 /* calendar */
 .calendar-section{padding-top:clamp(4rem,10vw,7rem)}
