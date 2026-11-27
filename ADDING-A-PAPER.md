@@ -56,3 +56,11 @@ Each paper on the site gets a title, journal, date, authors, a "Read the paper" 
 - **Weekly sync:** every Monday a GitHub Action checks our ORCID profiles and opens a pull request for any new papers. It fills in the title, journal and authors but not the summary. Add the summary in that pull request, set `reviewed` to `true`, then merge.
 - **PubMed ID:** new papers often have no PMID for a week or two. Add it later; the site works without it.
 - Field details are in `data/README.md`.
+
+## The logo scavenger hunt (easter egg)
+
+Tapping the top logo 7 times breaks it in two and starts a 5-clue scavenger hunt. Each answer is a number from a paper's "In short" summary. The last screen shows a secret phrase that people DM to @BreakkingBones.
+
+- Clues, hints, answers and the phrase live in `scripts/hunt-source.json`. That file is **git-ignored**, so it is only on the computer that built the hunt. The public `data/hunt.json` holds only hashed answers and the encrypted phrase.
+- **To change a clue, answer or the phrase:** edit `scripts/hunt-source.json`, run `python3 -I scripts/make_hunt.py`, then commit and push `data/hunt.json`.
+- **If you edit a summary that a clue uses**, run the script again. It prints a WARNING when an answer no longer appears in that month's public summaries.

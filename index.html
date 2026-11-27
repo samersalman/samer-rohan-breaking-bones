@@ -24,13 +24,18 @@
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/topics.css">
 <script src="js/app.js" defer></script>
+<script src="js/hunt.js" defer></script>
 </head>
 <body>
 <a class="skip" href="#calendar-heading">Skip to the calendar</a>
 <div id="page">
 <header class="hero">
   <div class="wrap hero-inner">
-    <img class="hero-logo" src="assets/logo-circle.png" alt="Breaking Bones logo: two skulls in scrub caps" width="220" height="220" fetchpriority="high">
+    <button type="button" class="hero-logo egg" id="egg" aria-label="Breaking Bones logo: two skulls in scrub caps">
+      <img class="half half-l" src="assets/logo-circle.png" alt="" width="220" height="220" fetchpriority="high">
+      <img class="half half-r" src="assets/logo-circle.png" alt="" width="220" height="220">
+      <svg class="cracks" viewBox="0 0 100 100" aria-hidden="true" focusable="false"><g class="c-ink"><path class="cm" pathLength="100" d="M52 0 L47 11 L55 22 L46 34 L54 46 L45 58 L56 70 L47 82 L53 92 L50 100"/><path class="cb" data-at="2" pathLength="1" d="M55 22 L63 18 L69 21"/><path class="cb" data-at="3" pathLength="1" d="M46 34 L38 30 L32 35"/><path class="cb" data-at="4" pathLength="1" d="M54 46 L62 50 L68 47"/><path class="cb" data-at="5" pathLength="1" d="M45 58 L37 63 L30 61"/><path class="cb" data-at="6" pathLength="1" d="M56 70 L64 75 L70 73"/></g><g class="c-bone"><path class="cm" pathLength="100" d="M52 0 L47 11 L55 22 L46 34 L54 46 L45 58 L56 70 L47 82 L53 92 L50 100"/><path class="cb" data-at="2" pathLength="1" d="M55 22 L63 18 L69 21"/><path class="cb" data-at="3" pathLength="1" d="M46 34 L38 30 L32 35"/><path class="cb" data-at="4" pathLength="1" d="M54 46 L62 50 L68 47"/><path class="cb" data-at="5" pathLength="1" d="M45 58 L37 63 L30 61"/><path class="cb" data-at="6" pathLength="1" d="M56 70 L64 75 L70 73"/></g></svg>
+    </button>
     <div class="hero-text">
       <h1>Breaking Bones</h1>
       <p class="tagline">Surgical outcomes and AI research, made digestible.</p>
@@ -132,5 +137,7 @@
 
 <section id="month-view" class="month-view" role="dialog" aria-modal="true" aria-labelledby="month-title" hidden></section>
 <div id="live" class="sr-only" aria-live="polite"></div>
+<aside id="hunt" class="hunt" aria-labelledby="hunt-title" hidden></aside>
+<button type="button" id="hunt-pill" class="hunt-pill" hidden></button>
 </body>
 </html>
